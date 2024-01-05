@@ -25,6 +25,7 @@ public class informationFile {
 
 
             sc.close();
+            System.out.println("End of program...");
 
             
         }
